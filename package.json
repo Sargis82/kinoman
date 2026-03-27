@@ -1,0 +1,1 @@
+{\n  "name": "kinoman",\n  "version": "1.0.0",\n  "description": "KINOMAN Project",\n  "main": "server/server.js",\n  "scripts": {\n    "start": "node server/server.js",\n    "client": "npm --prefix client start",\n    "dev": "npm run client"\n  },\n  "dependencies": {\n    // server dependencies\n  },\n  "devDependencies": {\n    // development tools\n  }\n}
